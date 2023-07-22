@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import os,sys,time,marshal
 os.system('clear')
 
